@@ -9,7 +9,11 @@
   "author": "Debabrata Poddar",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "ejs": "^2.6.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.1",
+    "stylus": "^0.54.5"
   }
 }
